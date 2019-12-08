@@ -1,0 +1,15 @@
+{
+    "mac": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-notes-mac-235540-authRole",
+            "UnauthRoleArn": "arn:aws:iam::637966222865:role/amplify-notes-mac-235540-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::637966222865:role/amplify-notes-mac-235540-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-notes-mac-235540-deployment",
+            "UnauthRoleName": "amplify-notes-mac-235540-unauthRole",
+            "StackName": "amplify-notes-mac-235540",
+            "StackId": "arn:aws:cloudformation:us-west-2:637966222865:stack/amplify-notes-mac-235540/6005df40-197f-11ea-a3bb-022a2754311a",
+            "AmplifyAppId": "d1x0fiofag77ty"
+        }
+    }
+}
